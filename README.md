@@ -132,4 +132,22 @@
 
 67 -) Implement a basic Tic Tac Toe game in Java
 
-<!-- https://www.kodbloklari.com/java-programlama-ornekleri -->
+68 -) Calculating Grocery Basket VAT Amount
+
+69 -) Calculating Hypotenuse
+
+70 -) Calculating Leap Year
+
+71 -) Recommending Events According to Temperature
+
+72 -) Finding Horoscope and Chinese Zodiac
+
+73 -) SMS Message Size Calculator Program
+
+74 -) Calculating Harmonic Series
+
+75 -) Calculating Body Mass Index
+
+76 -) Hangman Game
+
+<!-- https://www.kodbloklari.com/java-programlama-ornekleri + https://kodlamavakti.com/java-ornek-projeler -->
